@@ -1,0 +1,15 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    background:beige;
+    color:brown;
+}
+p{
+    text-align: center;
+}
+.constructionimage{
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
